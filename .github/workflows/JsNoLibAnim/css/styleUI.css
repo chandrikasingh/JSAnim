@@ -1,0 +1,41 @@
+#myContainer {
+  width: 360px;
+  height: 360px;
+  position: relative;
+  background: yellow;
+}
+#redAnm {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color: red;
+}
+
+#greedAnm {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color: green;
+}
+
+#blueAnm {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color: blue;
+}
+
+#chartAnm {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color:chartreuse ;
+}
+
+
+#chocoAnm {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color:chocolate ;
+}
